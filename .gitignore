@@ -1,2 +1,5 @@
-*/venv/*
-*.pyc
+*.py[cod]
+.DS_Store
+
+venv
+app.db
